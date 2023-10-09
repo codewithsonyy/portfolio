@@ -93,9 +93,10 @@ Feel free to open an issue to discuss it, or directly create a pull request with
 
 1. Fork it (<https://github.com/danielyoshizawa/portifolio>)
 2. Create your feature branch (`git checkout -b feature/login`)
-3. Commit your changes (`git commit -am 'Added login'`)
-4. Push to the branch (`git push origin feature/login`)
-5. Create a new Pull Request
+3. Commit your changes (`git commit -m 'Added login'`)
+4. add the remote forked repo (`git remote add origin https://github.com/OWNER/REPOSITORY.git'`)
+5. Push to the branch (`git push origin feature/login`)
+6. Create a new Pull Request
 
 ### Contributors
 

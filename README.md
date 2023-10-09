@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://danielportfolio.vercel.app/">
+  <a href="">
     <img src="https://i.ibb.co/G3WnB0F/readme.png" alt="Logo" width="260">
   </a>
 
@@ -14,7 +14,7 @@ Certifications and some of my amazing github Projects as well as my resume and t
 > **_NOTE:_**  It is still under production, I have completed only some features I am still working on it.
 </p>
 </div>
-    <a href="https://danielportfolio.vercel.app/"><strong>View Demo »</strong></a>
+    <a href=""><strong>View Demo »</strong></a>
     <br />
     <br />
 
@@ -106,7 +106,7 @@ Feel free to open an issue to discuss it, or directly create a pull request with
 
 ## Contact info
 
-Feel free to contact me if you come through any error or want Guide of how to learn Full stack Development. You can also contact me if you want to Hire me for Your Project or organization.
+Feel free to contact me if you come through any error or want Guide in contribution. You can also contact me if you want to Hire me for Your Project or organization.
 
 <a href ="https://www.linkedin.com/in/danielyoshizawa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> 
 
